@@ -152,8 +152,16 @@ listen=1
 server=1
 daemon=1
 staking=0
-enablezeromint=0
 port=$COIN_PORT
+addnode=142.93.112.156
+addnode=213.108.6.115:8798
+addnode=151.80.43.136:8798
+addnode=206.81.15.224:8798
+addnode=95.217.78.170:8798
+addnode=104.192.1.235:8798
+addnode=217.69.3.8:8798
+addnode=86.57.193.186:8798
+addnode=173.199.119.186:8798
 EOF
 }
 
