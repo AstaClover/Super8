@@ -19,7 +19,7 @@ If you require further assistance contact the support team on telegram
 
 ## Section A: Creating the VPS within [Vultr](https://www.vultr.com/?ref=7515970)
 ***Step 1***
-* Register at [Vultr](https://www.vultr.com/?ref=7355275)
+* Register at [Vultr](https://www.vultr.com/?ref=8234915-4F)
 ***
 
 ***Step 2***
